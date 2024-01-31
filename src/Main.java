@@ -129,8 +129,9 @@ public class Main {
 		String lName = "Gunathilaka";
 		String Nresult = addstrings(fName, lName);
 		System.out.println(Nresult);
-		
-		
+		//check git configs working
+		System.out.println("Test Passed");
+
 	}
 	
 	public static int add(int h, int k) {
